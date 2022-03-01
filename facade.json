@@ -1,0 +1,41 @@
+{data:[
+    {
+      title: `Tower1`,
+      key: `Tower1`,
+      allowDelete: false,
+      children: [
+        {
+          title: "Level 0-9",
+          key: "Level 0-9",
+          children: [
+            { title: "Level 0", key: "Level0" },
+            { title: "Level 1", key: "Level1" },
+            { title: "Level 2", key: "Level2" },
+            { title: "Level 3", key: "Level3" },
+            { title: "Level 4", key: "Level4" },
+            { title: "Level 5", key: "Level5" },
+            { title: "Level 6", key: "Level6" },
+            { title: "Level 7", key: "Level7" },
+            { title: "Level 8", key: "Level8" },
+            { title: "Level 9", key: "Level9" },
+          ],
+        },
+        {
+          title: "Level 10-19",
+          key: "Level 10-19",
+          children: [
+            { title: "Level 10", key: "Level10" },
+            { title: "Level 11", key: "Level11" },
+            { title: "Level 12", key: "Level12" },
+            { title: "Level 13", key: "Level13" },
+            { title: "Level 14", key: "Level14" },
+            { title: "Level 15", key: "Level15" },
+            { title: "Level 16", key: "Level16" },
+            { title: "Level 17", key: "Level17" },
+            { title: "Level 18", key: "Level18" },
+            { title: "Level 19", key: "Level19" },
+          ],
+        },
+      ],
+    },
+  ]}
