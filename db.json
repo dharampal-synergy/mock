@@ -6,94 +6,94 @@
       "allowDelete": false,
       "children": [
         {
-          "title": "Level 0-9",
-          "key": "Level 0-9",
+          "title": "panel_level 0-9",
+          "key": "panel_level 0-9",
           "children": [
             {
-              "title": "Level 0",
-              "key": "Level0"
+              "title": "panel_level 0",
+              "key": "panel_level0"
             },
             {
-              "title": "Level 1",
-              "key": "Level1"
+              "title": "panel_level 1",
+              "key": "panel_level1"
             },
             {
-              "title": "Level 2",
-              "key": "Level2"
+              "title": "panel_level 2",
+              "key": "panel_level2"
             },
             {
-              "title": "Level 3",
-              "key": "Level3"
+              "title": "panel_level 3",
+              "key": "panel_level3"
             },
             {
-              "title": "Level 4",
-              "key": "Level4"
+              "title": "panel_level 4",
+              "key": "panel_level4"
             },
             {
-              "title": "Level 5",
-              "key": "Level5"
+              "title": "panel_level 5",
+              "key": "panel_level5"
             },
             {
-              "title": "Level 6",
-              "key": "Level6"
+              "title": "panel_level 6",
+              "key": "panel_level6"
             },
             {
-              "title": "Level 7",
-              "key": "Level7"
+              "title": "panel_level 7",
+              "key": "panel_level7"
             },
             {
-              "title": "Level 8",
-              "key": "Level8"
+              "title": "panel_level 8",
+              "key": "panel_level8"
             },
             {
-              "title": "Level 9",
-              "key": "Level9"
+              "title": "panel_level 9",
+              "key": "panel_level9"
             }
           ]
         },
         {
-          "title": "Level 10-19",
-          "key": "Level 10-19",
+          "title": "panel_level 10-19",
+          "key": "panel_level 10-19",
           "children": [
             {
-              "title": "Level 10",
-              "key": "Level10"
+              "title": "panel_level 10",
+              "key": "panel_level10"
             },
             {
-              "title": "Level 11",
-              "key": "Level11"
+              "title": "panel_level 11",
+              "key": "panel_level11"
             },
             {
-              "title": "Level 12",
-              "key": "Level12"
+              "title": "panel_level 12",
+              "key": "panel_level12"
             },
             {
-              "title": "Level 13",
-              "key": "Level13"
+              "title": "panel_level 13",
+              "key": "panel_level13"
             },
             {
-              "title": "Level 14",
-              "key": "Level14"
+              "title": "panel_level 14",
+              "key": "panel_level14"
             },
             {
-              "title": "Level 15",
-              "key": "Level15"
+              "title": "panel_level 15",
+              "key": "panel_level15"
             },
             {
-              "title": "Level 16",
-              "key": "Level16"
+              "title": "panel_level 16",
+              "key": "panel_level16"
             },
             {
-              "title": "Level 17",
-              "key": "Level17"
+              "title": "panel_level 17",
+              "key": "panel_level17"
             },
             {
-              "title": "Level 18",
-              "key": "Level18"
+              "title": "panel_level 18",
+              "key": "panel_level18"
             },
             {
-              "title": "Level 19",
-              "key": "Level19"
+              "title": "panel_level 19",
+              "key": "panel_level19"
             }
           ]
         }
@@ -103,68 +103,68 @@
   "panels": [
     {
       "panel_Id": "011-051",
-      "level": "11",
-      "status": "installed"
+      "panel_level": "11",
+      "panel_status": "installed"
     },
     {
       "panel_Id": "011-051",
-      "level": "11",
-      "status": "installed"
+      "panel_level": "11",
+      "panel_status": "installed"
     },
     {
       "panel_Id": "09-051",
-      "level": "9",
-      "status": "installed"
+      "panel_level": "9",
+      "panel_status": "installed"
     },
     {
       "panel_Id": "09-051",
-      "level": "9",
-      "status": "On Site"
+      "panel_level": "9",
+      "panel_status": "On Site"
     },
     {
       "panel_Id": "09-051",
-      "level": "9",
-      "status": "installed"
+      "panel_level": "9",
+      "panel_status": "installed"
     },
     {
       "panel_Id": "08-051",
-      "level": "8",
-      "status": "On Site"
+      "panel_level": "8",
+      "panel_status": "On Site"
     },
     {
       "panel_Id": "07-051",
-      "level": "7",
-      "status": "installed"
+      "panel_level": "7",
+      "panel_status": "installed"
     },
     {
       "panel_Id": "05-051",
-      "level": "5",
-      "status": "installed"
+      "panel_level": "5",
+      "panel_status": "installed"
     },
     {
       "panel_Id": "05-051",
-      "level": "5",
-      "status": "installed"
+      "panel_level": "5",
+      "panel_status": "installed"
     },
     {
       "panel_Id": "011-051",
-      "level": "11",
-      "status": "On Site"
+      "panel_level": "11",
+      "panel_status": "On Site"
     },
     {
       "panel_Id": "011-051",
-      "level": "11",
-      "status": "On Site"
+      "panel_level": "11",
+      "panel_status": "On Site"
     },
     {
       "panel_Id": "011-051",
-      "level": "11",
-      "status": "installed"
+      "panel_level": "11",
+      "panel_status": "installed"
     },
     {
       "panel_Id": "011-051",
-      "level": "11",
-      "status": "installed"
+      "panel_level": "11",
+      "panel_status": "installed"
     }
   ]
 }
