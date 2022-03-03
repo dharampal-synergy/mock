@@ -102,68 +102,68 @@
   ],
   "panels": [
     {
-      "id": "011-051",
-      "level": "11",
-      "status": "installed"
+      "panel_id": "011-051",
+      "panel_level": "11",
+      "panel_status": "installed"
     },
     {
-      "id": "011-051",
-      "level": "11",
-      "status": "installed"
+      "panel_id": "011-051",
+      "panel_level": "11",
+      "panel_status": "installed"
     },
     {
-      "id": "09-051",
-      "level": "9",
-      "status": "installed"
+      "panel_id": "09-051",
+      "panel_level": "9",
+      "panel_status": "installed"
     },
     {
-      "id": "09-051",
-      "level": "9",
+      "panel_id": "09-051",
+      "panel_level": "9",
+      "panel_status": "On Site"
+    },
+    {
+      "panel_id": "09-051",
+      "panel_level": "9",
+      "panel_status": "installed"
+    },
+    {
+      "panel_id": "08-051",
+      "panel_level": "8",
+      "panel_status": "On Site"
+    },
+    {
+      "panel_id": "07-051",
+      "panel_level": "7",
+      "panel_status": "installed"
+    },
+    {
+      "panel_id": "05-051",
+      "panel_level": "5",
+      "panel_status": "installed"
+    },
+    {
+      "panel_id": "05-051",
+      "panel_level": "5",
+      "panel_status": "installed"
+    },
+    {
+      "panel_id": "011-051",
+      "panel_level": "11",
+      "panel_status": "On Site"
+    },
+    {
+      "panel_id": "011-051",
+      "panel_level": "11",
       "status": "On Site"
     },
     {
-      "id": "09-051",
-      "level": "9",
+      "panel_id": "011-051",
+      "panel_level": "11",
       "status": "installed"
     },
     {
-      "id": "08-051",
-      "level": "8",
-      "status": "On Site"
-    },
-    {
-      "id": "07-051",
-      "level": "7",
-      "status": "installed"
-    },
-    {
-      "id": "05-051",
-      "level": "5",
-      "status": "installed"
-    },
-    {
-      "id": "05-051",
-      "level": "5",
-      "status": "installed"
-    },
-    {
-      "id": "011-051",
-      "level": "11",
-      "status": "On Site"
-    },
-    {
-      "id": "011-051",
-      "level": "11",
-      "status": "On Site"
-    },
-    {
-      "id": "011-051",
-      "level": "11",
-      "status": "installed"
-    },
-    {
-      "id": "011-051",
-      "level": "11",
+      "panel_id": "011-051",
+      "panel_level": "11",
       "status": "installed"
     }
   ]
